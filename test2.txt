@@ -1,0 +1,5 @@
+f
+press esc and :
+then type :w to write file
+
+press esc and type :q to quit the editor
